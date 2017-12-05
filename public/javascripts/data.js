@@ -1,4 +1,4 @@
-let data = [
+let nasaData = [
 {
   copyright: "Göran Strand",
   date: "2017-06-01",
@@ -506,3 +506,5 @@ let data = [
   url: "https://apod.nasa.gov/apod/image/1708/m16-m17-toa3-mosaic-crfl-final17-cc900c.jpg"
 }
 ]
+
+module.exports = data
